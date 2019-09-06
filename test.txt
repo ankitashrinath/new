@@ -3,5 +3,10 @@ test to check commit and push
 test to check commit and push
 
 test to check commit and push
+<<<<<<< Updated upstream
+=======
+
+15.50
+>>>>>>> Stashed changes
 
 15.48
